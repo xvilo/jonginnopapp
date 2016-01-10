@@ -16,5 +16,8 @@
     <author href="https://sem.design" email="me@sem.design">
         Sem Schilder
     </author>
+    
+    <icon src="icon.png" />
+    <splash src="splash.png" />
 
 </widget>
